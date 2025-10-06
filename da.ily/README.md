@@ -1,8 +1,8 @@
 # da.ily
 
-Link to github: https://github.com/satyamd8/da.ily
-Link to figma: https://www.figma.com/design/xnPyXeQqYzQWvfK45YjdtK/da.ily?node-id=0-1&t=TRB5v0xKVbWVcAPr-1
-Link to website: https://satyamd8.github.io/da.ily/
+- Link to github: https://github.com/satyamd8/da.ily
+- Link to figma: https://www.figma.com/design/xnPyXeQqYzQWvfK45YjdtK/da.ily?node-id=0-1&t=TRB5v0xKVbWVcAPr-1
+- Link to website: https://satyamd8.github.io/da.ily/
 
 ## Case Study
 
